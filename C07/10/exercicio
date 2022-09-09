@@ -1,0 +1,18 @@
+- Anote (à mão) o resultado das expressões:
+- fmt.Println(true && true) 
+- fmt.Println(true && false) 
+- fmt.Println(true || true) 
+- fmt.Println(true || false) 
+- fmt.Println(!true)
+- Ninja nível 3! Parabéns! 
+
+→ Compartilhe sua solução e converse com outros estudantes em: https://github.com/ellenkorbes/aprend...
+
+→ Segue lá: http://twitter.com/veekorbes
+
+Minha Resposta : 
+true
+false
+true
+true
+false
