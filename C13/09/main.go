@@ -12,11 +12,12 @@ func main() {
 	recebeArgumento(argumento)
 }
 
-func argumento(){
+func argumento() {
 	fmt.Println("Olha eu aqui!")
 }
 
-func recebeArgumento(f func()){
+func recebeArgumento(f func()) {
 	fmt.Println("Olá é o seguinte:")
 	f()
+
 }
